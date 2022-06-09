@@ -4,7 +4,8 @@
   "description": "server restful api for todo list",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "dev": "node server.js"
   },
   "type": "module",
   "keywords": [
